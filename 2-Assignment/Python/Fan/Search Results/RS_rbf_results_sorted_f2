@@ -1,3 +1,0 @@
-kernel,C,gamma,mean_test_Accuracy,mean_test_Precision,mean_test_recall,mean_test_f1,mean_test_f2
-rbf,55.20000000000006,0.095,1.0,1.0,1.0,1.0,1.0
-rbf,13.100000000000001,1.065,0.9990909090909093,0.998,1.0,0.9989949748743718,0.9986754966887418
